@@ -1,11 +1,9 @@
-# IM_presen
-Online presentation for INTRER-Mediator
 name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# タイトル
-１ページ目
+# INTER-Mediatorで何かやってみる
+Online presentation for INTRER-Mediator
 ---
 layout:false
 ## スライド１

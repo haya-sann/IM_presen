@@ -2,7 +2,8 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# INTER-Mediatorで何かやってみる
+# INTER-Mediatorで
+# 何かやってみる
 Online presentation for INTRER-Mediator
 ---
 layout:false
